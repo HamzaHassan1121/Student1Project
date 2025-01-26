@@ -10,3 +10,9 @@ An allocated student of 4 in creating a web page orientated the Zero Hunger Goal
     The creation of a Page Editor that shows my own contribution to the project itself and a list of the team names including various links to different web pages incorporated.
 
 
+Below are the URLs to these pages I've Created:
+
+https://w2044381.users.ecs.westminster.ac.uk/hungr/splash.html
+https://w2044381.users.ecs.westminster.ac.uk/hungr/shop.html
+https://w2044381.users.ecs.westminster.ac.uk/hungr/content_ST1.html
+https://w2044381.users.ecs.westminster.ac.uk/hungr/pageEditor_ST1.html
